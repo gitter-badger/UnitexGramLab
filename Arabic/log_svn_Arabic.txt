@@ -1,0 +1,221 @@
+------------------------------------------------------------------------
+r3749 | ndoumi2006 | 2015-01-13 15:03:01 +0100 (Tue, 13 Jan 2015) | 1 line
+
+Adding 171 inflection transducers
+------------------------------------------------------------------------
+r3748 | ndoumi2006 | 2015-01-13 14:50:48 +0100 (Tue, 13 Jan 2015) | 1 line
+
+Adding the English version of readme file and tagset
+------------------------------------------------------------------------
+r3747 | laporte | 2015-01-12 17:56:43 +0100 (Mon, 12 Jan 2015) | 1 line
+
+test on Doumi's Arabic resource
+------------------------------------------------------------------------
+r3671 | ndoumi2006 | 2014-10-10 21:48:16 +0200 (Fri, 10 Oct 2014) | 1 line
+
+Fixing the name/adjectif error in the case of definite state with solar and lunar consonants
+------------------------------------------------------------------------
+r3667 | ndoumi2006 | 2014-08-23 18:19:46 +0200 (Sat, 23 Aug 2014) | 1 line
+
+Correcting noun/adjectif diacritisation
+------------------------------------------------------------------------
+r3663 | ndoumi2006 | 2014-08-06 20:03:38 +0200 (Wed, 06 Aug 2014) | 1 line
+
+Changing the order of state and case in the morphosyntactic tag in noun/adjectif dictionaries and config files
+------------------------------------------------------------------------
+r3662 | ndoumi2006 | 2014-08-04 20:24:57 +0200 (Mon, 04 Aug 2014) | 1 line
+
+Updating the readme file
+------------------------------------------------------------------------
+r3661 | ndoumi2006 | 2014-08-04 20:24:04 +0200 (Mon, 04 Aug 2014) | 1 line
+
+Adding 54 noun/adjectif lemmas
+------------------------------------------------------------------------
+r3660 | ndoumi2006 | 2014-08-03 20:13:37 +0200 (Sun, 03 Aug 2014) | 1 line
+
+
+------------------------------------------------------------------------
+r3659 | ndoumi2006 | 2014-08-03 20:10:42 +0200 (Sun, 03 Aug 2014) | 1 line
+
+Changing the orderof gender and number in the morphosyntactic tag in all dictionaries and config files
+------------------------------------------------------------------------
+r3658 | ndoumi2006 | 2014-08-03 20:09:32 +0200 (Sun, 03 Aug 2014) | 1 line
+
+Changing the orderof gender and number in the morphosyntactic tag in all dictionaries and config files
+------------------------------------------------------------------------
+r3653 | ndoumi2006 | 2014-07-13 19:04:47 +0200 (Sun, 13 Jul 2014) | 1 line
+
+Adding 300 noun/adjectif lemmas to be 16557 word forms
+------------------------------------------------------------------------
+r3620 | ndoumi2006 | 2014-03-30 03:06:49 +0200 (Sun, 30 Mar 2014) | 1 line
+
+Correction of verb DELAF entries
+------------------------------------------------------------------------
+r3619 | ndoumi2006 | 2014-03-29 22:55:38 +0100 (Sat, 29 Mar 2014) | 1 line
+
+Deleting some files
+------------------------------------------------------------------------
+r3618 | ndoumi2006 | 2014-03-29 22:43:10 +0100 (Sat, 29 Mar 2014) | 1 line
+
+Deleting redundant entries in particle dictionary and renaming some files
+------------------------------------------------------------------------
+r3615 | ndoumi2006 | 2014-03-27 01:31:56 +0100 (Thu, 27 Mar 2014) | 1 line
+
+Updating the readme of the hayy ibn yakdhan test corpus 
+------------------------------------------------------------------------
+r3614 | ndoumi2006 | 2014-03-27 01:06:20 +0100 (Thu, 27 Mar 2014) | 1 line
+
+Updating verb and pronoun dictionary entries
+------------------------------------------------------------------------
+r3613 | ndoumi2006 | 2014-03-26 18:23:24 +0100 (Wed, 26 Mar 2014) | 1 line
+
+Updating the tagset for dela dictionaries and Elag grammars
+------------------------------------------------------------------------
+r3546 | laporte | 2014-02-05 14:03:35 +0100 (Wed, 05 Feb 2014) | 1 line
+
+delete out-of-date readme in Arabic Corpus
+------------------------------------------------------------------------
+r3544 | laporte | 2014-02-04 13:27:43 +0100 (Tue, 04 Feb 2014) | 1 line
+
+Inserting Neme's corpus for Arabic with readme; inserting extended readme for Doumi's corpus
+------------------------------------------------------------------------
+r3543 | ndoumi2006 | 2014-01-28 18:55:18 +0100 (Tue, 28 Jan 2014) | 1 line
+
+Updating the readme file for the dela directory of the Arabic package
+------------------------------------------------------------------------
+r3417 | ndoumi2006 | 2013-05-27 15:39:20 +0200 (Mon, 27 May 2013) | 1 line
+
+Adding comments on dictionaries
+------------------------------------------------------------------------
+r3416 | ndoumi2006 | 2013-05-14 06:52:57 +0200 (Tue, 14 May 2013) | 1 line
+
+Updating the verb dictionary
+------------------------------------------------------------------------
+r3414 | ndoumi2006 | 2013-05-03 00:29:04 +0200 (Fri, 03 May 2013) | 1 line
+
+Fixing the Hamza and diacritics problems in some DELAF entries
+------------------------------------------------------------------------
+r3405 | ndoumi2006 | 2013-04-12 17:03:34 +0200 (Fri, 12 Apr 2013) | 1 line
+
+Updating the DELA readme file
+------------------------------------------------------------------------
+r3403 | ndoumi2006 | 2013-04-05 13:25:52 +0200 (Fri, 05 Apr 2013) | 1 line
+
+Regrouping the 12 arabic verb files in 2 files DELAF_V and DELAF_V_d.
+------------------------------------------------------------------------
+r3402 | ndoumi2006 | 2013-04-03 18:30:47 +0200 (Wed, 03 Apr 2013) | 1 line
+
+Dividing the old verb dictionary in 12 files DELAF_V_x (x=1..5), DELAF_V_d_y (y=1..7)
+------------------------------------------------------------------------
+r3401 | ndoumi2006 | 2013-04-03 18:23:36 +0200 (Wed, 03 Apr 2013) | 1 line
+
+Updating the arabic verb dictionary, henceforth it contains almost 17000 arabic verbs (70% of total arabic verbs)
+------------------------------------------------------------------------
+r3400 | ndoumi2006 | 2013-04-01 20:21:33 +0200 (Mon, 01 Apr 2013) | 1 line
+
+The updating
+------------------------------------------------------------------------
+r3399 | ndoumi2006 | 2013-04-01 19:10:39 +0200 (Mon, 01 Apr 2013) | 1 line
+
+Adding almost 14000 verb lemmas and their infleced forms to the DELA dictionaries
+------------------------------------------------------------------------
+r3343 | friburger | 2012-09-27 13:26:00 +0200 (Thu, 27 Sep 2012) | 1 line
+
+Added a share folder each Cassys language folder
+------------------------------------------------------------------------
+r3209 | ndoumi2006 | 2012-08-10 17:04:13 +0200 (Fri, 10 Aug 2012) | 1 line
+
+Replacing the old sentence graph
+------------------------------------------------------------------------
+r3208 | ndoumi2006 | 2012-08-10 16:59:51 +0200 (Fri, 10 Aug 2012) | 1 line
+
+Deleting the old sentence graph
+------------------------------------------------------------------------
+r3207 | ndoumi2006 | 2012-08-10 05:50:15 +0200 (Fri, 10 Aug 2012) | 1 line
+
+Updating the sentence graph
+------------------------------------------------------------------------
+r3204 | ndoumi2006 | 2012-08-02 20:08:45 +0200 (Thu, 02 Aug 2012) | 1 line
+
+Adding 26 entries to the country dictionary
+------------------------------------------------------------------------
+r3175 | paumier | 2012-07-24 12:53:08 +0200 (Tue, 24 Jul 2012) | 1 line
+
+Adding Gramlab's TEI graphs to every language directory
+------------------------------------------------------------------------
+r3161 | ndoumi2006 | 2012-07-13 17:54:16 +0200 (Fri, 13 Jul 2012) | 1 line
+
+Adding new sentence graph for Arabic
+------------------------------------------------------------------------
+r3160 | ndoumi2006 | 2012-07-13 17:52:43 +0200 (Fri, 13 Jul 2012) | 1 line
+
+Apping new sentence graph for Arabic
+------------------------------------------------------------------------
+r3159 | ndoumi2006 | 2012-07-13 17:46:17 +0200 (Fri, 13 Jul 2012) | 1 line
+
+Adding a new sentence graph
+------------------------------------------------------------------------
+r3158 | ndoumi2006 | 2012-07-13 17:35:30 +0200 (Fri, 13 Jul 2012) | 1 line
+
+Ajout du graphe sentence
+------------------------------------------------------------------------
+r2992 | paumier | 2012-05-11 07:39:08 +0200 (Fri, 11 May 2012) | 1 line
+
+Updating Arabic resources
+------------------------------------------------------------------------
+r2971 | paumier | 2012-04-22 09:57:19 +0200 (Sun, 22 Apr 2012) | 1 line
+
+Dictionary update
+------------------------------------------------------------------------
+r2841 | paumier | 2012-04-09 10:19:38 +0200 (Mon, 09 Apr 2012) | 1 line
+
+Updating Arabic dictionaries
+------------------------------------------------------------------------
+r2709 | paumier | 2012-01-16 08:46:25 +0100 (Mon, 16 Jan 2012) | 1 line
+
+Adding dictionaries for Arabic
+------------------------------------------------------------------------
+r2545 | paumier | 2011-09-26 08:02:05 +0200 (Mon, 26 Sep 2011) | 1 line
+
+Updating Arabic dictionaries
+------------------------------------------------------------------------
+r2511 | paumier | 2011-09-05 08:07:29 +0200 (Mon, 05 Sep 2011) | 1 line
+
+Updating Arabic dictionaries
+------------------------------------------------------------------------
+r2412 | paumier | 2011-06-14 07:40:30 +0200 (Tue, 14 Jun 2011) | 1 line
+
+Updating Arabic package
+------------------------------------------------------------------------
+r2287 | paumier | 2011-04-12 10:57:21 +0200 (Tue, 12 Apr 2011) | 1 line
+
+Adding Corpus and sample dictionaries for Arabic
+------------------------------------------------------------------------
+r2050 | friburger | 2010-12-21 11:42:52 +0100 (Tue, 21 Dec 2010) | 1 line
+
+Creating the folders named Cassys (for each language) for the Cassys System
+------------------------------------------------------------------------
+r2042 | paumier | 2010-12-17 11:00:10 +0100 (Fri, 17 Dec 2010) | 1 line
+
+Changing name of an arabic typo rule
+------------------------------------------------------------------------
+r1960 | neme | 2010-11-29 14:54:16 +0100 (Mon, 29 Nov 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r1959 | neme | 2010-11-29 12:56:24 +0100 (Mon, 29 Nov 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r1958 | neme | 2010-11-29 12:55:44 +0100 (Mon, 29 Nov 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r1814 | paumier | 2010-09-17 09:07:56 +0200 (Fri, 17 Sep 2010) | 1 line
+
+Adding a config file for Arabic
+------------------------------------------------------------------------
+r1606 | paumier | 2010-06-18 16:36:32 +0200 (Fri, 18 Jun 2010) | 1 line
+
+Adding Arabic package skeleton
+------------------------------------------------------------------------
