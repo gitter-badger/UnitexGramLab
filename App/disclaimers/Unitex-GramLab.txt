@@ -1,5 +1,5 @@
-Unitex/GramLab 3.1beta Rev. 4221
-December 07, 2015
+Unitex/GramLab 3.1beta Rev. 4225
+December 08, 2015
 
 Unitex/GramLab is an open source, cross-platform, multilingual, lexicon- and grammar-based corpus processing suite.
 

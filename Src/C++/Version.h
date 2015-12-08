@@ -45,24 +45,24 @@
 #define UNITEX_VERSION_URL_ISSUES          "http://unitexgramlab.org/index.php?page=6"
 #define UNITEX_VERSION_URL_REPOSITORY      "https://svnigm.univ-mlv.fr/svn/unitex/Unitex-C%2B%2B"
 /* ************************************************************************** */
-#define UNITEX_VERSION_RELEASE             "Unitex/GramLab 3.1beta Rev. 4221"
-#define UNITEX_VERSION_STRING              "3.1beta Rev. 4221";
-#define UNITEX_VERSION_SEMVER              "3.1.4221-beta";
+#define UNITEX_VERSION_RELEASE             "Unitex/GramLab 3.1beta Rev. 4225"
+#define UNITEX_VERSION_STRING              "3.1beta Rev. 4225";
+#define UNITEX_VERSION_SEMVER              "3.1.4225-beta";
 /* ************************************************************************** */
 #define UNITEX_VERSION_MAJOR_NUMBER        3
 #define UNITEX_VERSION_MINOR_NUMBER        1
-#define UNITEX_VERSION_REVISION_NUMBER     4221
+#define UNITEX_VERSION_REVISION_NUMBER     4225
 #define UNITEX_VERSION_SUFFIX              "beta"
 #define UNITEX_VERSION_TYPE                "unstable"
 #define UNITEX_VERSION_IS_UNSTABLE         1
 /* ************************************************************************** */
 #define UNITEX_VERSION_BUILD_IS_ANONYMOUS  0
 #define UNITEX_VERSION_BUILD_NUMBER        0
-#define UNITEX_VERSION_BUILD_DATE          "December 07, 2015"
-#define UNITEX_VERSION_BUILD_DAY           "07"
+#define UNITEX_VERSION_BUILD_DATE          "December 08, 2015"
+#define UNITEX_VERSION_BUILD_DAY           "08"
 #define UNITEX_VERSION_BUILD_MONTH         "12"
 #define UNITEX_VERSION_BUILD_YEAR          "2015"
-#define UNITEX_VERSION_BUILD_TIMESTAMP     "1449510606"
+#define UNITEX_VERSION_BUILD_TIMESTAMP     "1449580805"
 #define UNITEX_VERSION_BUILD_SYSTEM        "Vinber"
 /* ************************************************************************** */
 #define UNITEX_VERSION_COMMIT_BRANCH       "?"

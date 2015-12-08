@@ -28,16 +28,16 @@
  *            Unitex/GramLab Build Automation Service
  *            https://github.com/UnitexGramLab/vinber-backend
  *          
- * @date      December 07, 2015
+ * @date      December 08, 2015
  * 
  */
 /* ************************************************************************** */ 
 #ifndef UnitexRevisionH                                             // NOLINT
 #define UnitexRevisionH                                             // NOLINT
 /* ************************************************************************** */
-#define UNITEX_REVISION       4220
-#define UNITEXREVISION        4220
-#define UNITEX_REVISION_TEXT "4220"
+#define UNITEX_REVISION       4225
+#define UNITEXREVISION        4225
+#define UNITEX_REVISION_TEXT "4225"
 /* ************************************************************************** */
 #endif  // UnitexRevisionH                                          // NOLINT
 
