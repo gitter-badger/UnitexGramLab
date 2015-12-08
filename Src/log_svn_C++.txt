@@ -1,4 +1,8 @@
 ------------------------------------------------------------------------
+r4225 | martinec | 2015-12-08 14:18:38 +0100 (Tue, 08 Dec 2015) | 1 line
+
+minor enhance: add build information
+------------------------------------------------------------------------
 r4220 | martinec | 2015-12-07 17:34:55 +0100 (Mon, 07 Dec 2015) | 1 line
 
 minor refactor: update variable name
@@ -505,8 +509,4 @@ activate DumpOffset change made in rev 4050 and update logs
 r4050 | gupta | 2015-09-23 16:51:48 +0200 (Wed, 23 Sep 2015) | 1 line
 
 Fix r4037
-------------------------------------------------------------------------
-r4049 | gvollant | 2015-09-23 15:49:56 +0200 (Wed, 23 Sep 2015) | 1 line
-
-fix posix directory enumeration
 ------------------------------------------------------------------------

@@ -1,9 +1,9 @@
-# Unitex/GramLab 3.1beta Rev. 4221
-December 07, 2015
+# Unitex/GramLab 3.1beta Rev. 4225 [![Build Status][build-badge]][build-log]
+December 08, 2015
 
-Unitex/GramLab is an open source, cross-platform, multilingual, 
-lexicon- and grammar-based corpus processing suite. Project home page 
-can be found from: <http://unitexgramlab.org>.
+Unitex/GramLab is an open source, cross-platform, multilingual, lexicon-
+and grammar-based corpus processing suite. Project home page can be found
+from: <http://unitexgramlab.org>.
 
 ## Installation
 
@@ -189,3 +189,5 @@ Copyright (c) Universite Paris-Est Marne-la-Vallee, 2001-2015
 [MIT]:          http://opensource.org/licenses/MIT
 [LGPLLR]:       http://spdx.org/licenses/LGPLLR.html
 [LGPLv2]:       http://opensource.org/licenses/lgpl-2.1
+[build-badge]:  http://unitex.univ-mlv.fr/v6/badge/commit/2015-12-08-14-20-05.svg
+[build-log]:    http://unitex.univ-mlv.fr/v6/#bundle=commit&q=2015-12-08-14-20-05
