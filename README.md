@@ -1,4 +1,6 @@
 # Unitex/GramLab 3.1beta Rev. 4225 [![Build Status][build-badge]][build-log]
+
+[![Join the chat at https://gitter.im/UnitexGramLab/UnitexGramLab](https://badges.gitter.im/UnitexGramLab/UnitexGramLab.svg)](https://gitter.im/UnitexGramLab/UnitexGramLab?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 December 08, 2015
 
 Unitex/GramLab is an open source, cross-platform, multilingual, lexicon-
